@@ -1,0 +1,17 @@
+<Project>
+  <Import Project="build\Version.props" />
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <PackageOutputPath>$(MSBuildThisFileDirectory)bin\$(Configuration)</PackageOutputPath>
+    <Company>dotnet campus（.NET 职业技术学院）</Company>
+
+    <Authors>dotnet-campus</Authors>
+    <RepositoryUrl>https://github.com/dotnet-campus/dotnetCampus.Windows.Media.MiniLanguages</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/dotnet-campus/dotnetCampus.Windows.Media.MiniLanguages</PackageProjectUrl>
+    <Description>提供 SVG 路径访问者模式的解析。</Description>
+
+    <RepositoryType>git</RepositoryType>
+    <Copyright>Copyright © 2021 dotnet campus, All Rights Reserved.</Copyright>
+  </PropertyGroup>
+</Project>
