@@ -1,4 +1,6 @@
-# dotnetCampus.Windows.Media.MiniLanguages
+﻿# dotnetCampus.Windows.Media.MiniLanguages
+
+提供 SVG 路径访问者模式的解析
 
 | Build | NuGet |
 |--|--|

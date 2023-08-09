@@ -42,7 +42,7 @@ namespace dotnetCampus.Windows.Media.MiniLanguages
             }
 
             var context = new CommandContext(pathData);
-            PathSyntax currentParser = null;
+            PathSyntax? currentParser = null;
             visitor.Start(in context);
 
             for (var i = 0; i < pathData.Length;)
