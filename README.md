@@ -1,6 +1,6 @@
-# dotnetCampus.Windows.Media.MiniLanguages
+ï»¿# dotnetCampus.Windows.Media.MiniLanguages
 
-Ìá¹© SVG Â·¾¶·ÃÎÊÕßÄ£Ê½µÄ½âÎö
+æä¾› SVG è·¯å¾„è®¿é—®è€…æ¨¡å¼çš„è§£æ
 
 | Build | NuGet |
 |--|--|
